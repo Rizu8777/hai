@@ -1,0 +1,36 @@
+.outer-box{
+    width: 100%;
+    height: 500px;
+    background: blueviolet;
+}
+.box1{
+    width: 40%;
+    height: 30px;
+    background: chartreuse;
+   
+
+   
+}
+.box2{
+    width: 40%;
+    height: 30px;
+    background: rgb(62, 9, 105);
+   
+}
+.box3{
+    width: 40%;
+    height: 30px;
+    background: rgb(255, 0, 0);
+    
+}.box4{
+    width: 40%;
+    height: 30px;
+    background: rgb(255, 166, 0);
+}
+    
+
+
+
+
+
+
